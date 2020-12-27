@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "827058229238",
+    "project_id": "moneymonitor-dbac5",
+    "storage_bucket": "moneymonitor-dbac5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:827058229238:android:9ac921fdeafed153c781d7",
+        "android_client_info": {
+          "package_name": "com.example.homaworkmangement"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "827058229238-ln8jp81h7canaap1kk4408u12c7mfdgp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyApMiMFcldfuu3tpJBHb0SKQ1wa4tGYlbY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "827058229238-ln8jp81h7canaap1kk4408u12c7mfdgp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
